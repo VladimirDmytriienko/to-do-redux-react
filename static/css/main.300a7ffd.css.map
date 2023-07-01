@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.300a7ffd.css","mappings":"AAAA,KACE,iBACF,CAEA,IACE,UACF,CAEA,QACE,SAAU,CACV,cACF,CAEA,mBACE,4BACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\ndiv {\n  margin: 4px;\n}\n\n.delete {\n  color: red;\n  cursor: pointer;\n}\n\ninput:checked + span {\n  text-decoration: line-through;\n}"],"names":[],"sourceRoot":""}
